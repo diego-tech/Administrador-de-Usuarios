@@ -1,4 +1,4 @@
-<h1>Gestor de Contraseñas</h1>
+<h1>Gestor de Usuarios</h1>
 
 Aplicación de consola de comandos realizada con Java. Es un simple gestor
 de usuarios en el que podremos Registrar, Modificar y Eliminar usuarios,
